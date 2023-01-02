@@ -1,2 +1,1 @@
-# aws-vpc-network
-This repo contains terraform module to create a AWS VPC
+How to use this aws-vpc-network module
